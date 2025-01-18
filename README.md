@@ -83,3 +83,6 @@ Envía un pull request
 ## 📢 Agradecimientos
 - Al equipo de Alura LATAM y ORACLE por su programa educativo.
 - A la comunidad de desarrolladores que comparte sus conocimientos y apoya a otros.
+
+## BADGES
+![Image Alt](https://github.com/GabbyGeek/Literalura/blob/main/badge%20literalura.png?raw=true)
