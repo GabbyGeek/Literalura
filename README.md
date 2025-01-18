@@ -1,6 +1,7 @@
 # LiterAlura 📚
 LiterAlura es una aplicación de consola desarrollada en Java utilizando Spring Boot, Spring Data JPA, y PostgreSQL. Esta herramienta interactúa con la API de Gutendex para buscar libros, almacenarlos en una base de datos local, y brindar múltiples funcionalidades relacionadas con la gestión de libros y autores.
 
+![Image Alt](https://github.com/GabbyGeek/Literalura/blob/main/literalura%20Logo%20Design.png?raw=true)
 
 ## 📖 Descripción del Proyecto
 
